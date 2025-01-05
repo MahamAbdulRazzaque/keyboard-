@@ -1,0 +1,46 @@
+body{
+    margin-left: 250px;
+    margin-top: 150px;
+    background-color: rgb(166, 166, 166);
+}
+
+
+.input{
+    width: 670px;
+    height: 40px;
+    font-size: larger;
+}
+
+.div1{
+    margin-left: 20px;
+}
+
+.div2{
+    margin-left: 50px;
+}
+
+.div3{
+    margin-left: 110px;
+}
+
+button{
+    width: 60px;
+    height: 50px;
+    background-color: rgb(34, 29, 29);
+    color: white;
+}
+
+button:hover{
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+}
+
+
+.div4{
+    margin-left: 160px;
+}
+
+.remove-btn{
+    width: 300px;
+    height: 50px;
+}
